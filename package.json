@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev" : "nodemon index.js",
+    "dev": "nodemon index.js",
     "test": ""
   },
   "repository": {
@@ -19,9 +19,12 @@
   },
   "homepage": "https://github.com/ZULFAHGROUP/job-portal#readme",
   "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
