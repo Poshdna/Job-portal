@@ -1,0 +1,46 @@
+
+
+const customerStore = [
+         {
+            id:
+            lastname:
+            firstname:
+            email:
+            phone:
+            password:
+            registeredData
+         }
+]
+const otpStore = [
+         {
+            id:
+            otp:
+            email:
+            date
+         }
+]
+
+
+
+Job Application Portal
+
+   - User can signup 
+       - id:
+            lastname:
+            firstname:
+            email:
+            phone:
+            password:
+            status : in-active
+            registeredData
+ 
+   - User receieves Otp
+   - User verifies Otp
+   - User is set a Welcome Email
+   - User can login
+   - User logins with Email/Phone and Password
+   - User can See all available jobs
+   - User can apply for a job
+   - User Can Filter all Job type
+   - User Track Job Application
+
