@@ -42,7 +42,13 @@ Job Application Portal
    - User can See all available jobs
    - User Can Filter all Job type
    - User can apply for a job
+
+   - 
    - User Track Job Application
+   - Admin get all applications
+   - Admin can update application status [ submitted , processing, accepted, rejected]
+     let users get email at each stage
+   - 
 
 
 [
